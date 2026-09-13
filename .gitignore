@@ -1,0 +1,23 @@
+# Agents & Skills
+.agents/
+
+# Operating System Files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE & Editor Files
+.vscode/
+.idea/
+*.swp
+*~
+
+# Dependencies & Environments
+node_modules/
+__pycache__/
+*.py[cod]
+
+# Logs & Temporary Files
+*.log
+*.tmp
+.gemini/
